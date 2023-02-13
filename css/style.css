@@ -608,7 +608,7 @@ h6 {
 #services .icon {
   position: absolute;
   left: 15px;
-  top: calc(50% - 63px);
+  top: 15px;
 }
 
 #services .icon i {
